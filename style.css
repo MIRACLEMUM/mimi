@@ -5,7 +5,8 @@ body {
 h1 {
     color:black;
     text-align: center;
-    
+    background-color: blueviolet;
+    text-align: center;
 }
 
 p {
